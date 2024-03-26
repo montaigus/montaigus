@@ -1,4 +1,4 @@
-### Hi there 👋
+l### Hi there 👋
 
 <!--
 **montaigus/montaigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,10 @@ I now want to challenge myself and improve my coding skills to work on meaningfu
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
 
-   ### 🔥 My Stats :
-
+   
+<details>
+  <summary><h3>🔥 My Stats</h3></summary>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=montaigus&theme=dark&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montaigus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
