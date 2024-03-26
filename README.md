@@ -16,8 +16,8 @@ I now want to challenge myself and improve my coding skills to work on meaningfu
 
 - 🔭 I’m currently diving into React, Typescript and Node. Still interesed about C# (A whole different world !)
 - 🌱 I’m currently learning NextJs, PostgreSQL, GraphQl, JEST... And I want to be better and better at TypeScript : Types are amazing!
-- 🚧 Personal projects : < a href="https://github.com/montaigus/Card-Gen">A card generator for a future little game, as a training for React and Typescript</> and <a href="https://github.com/montaigus/jeans_research">a tool for research about Twitch chat, using Node and Twitch APIs</>. WIP !
-- 💬 Ask me about recipes 🍜 and french expressions (lol!)
+- 🚧 Personal projects : [A card generator for a future little game, as a training for React and Typescript](https://github.com/montaigus/Card-Gen) and [a tool for research about Twitch chat, using Node and Twitch APIs](https://github.com/montaigus/jeans_research). WIP !
+- 💬 Ask me about recipes 🍜 and french expressions!
 - 📫 How to reach me: bolze.romeo@gmail.com
 
   ### 🛠️ Languages and Tools :
