@@ -6,11 +6,11 @@
 
 ### 🙋‍♂️ A brief story :
 
-Junior Full-Stack developper from France 
+Junior Full-Stack developper from France  🇫🇷
 
-Mechanic & energetic engineer graduate, my path leaded me to the amazing IT world !
-I worked 5 years as a chief, and I'm still passionate about cooking for everyone I love ! Learnt so much about time, stress and people management, about how to work hard to deliver an actual service to customers, taking feedback and developping my creativity.
-I now want to challenge myself and improve my coding skills to work on meaningful projects.
+👨‍🎓 Mechanic & energetic engineer graduate, my path leaded me to the amazing IT world !<br/>
+👨‍🍳 I worked 5 years as a chief, and I'm still passionate about cooking for everyone I love ! Learnt so much about time, stress and people management 💢 , about how to work hard to deliver an actual service to customers, taking feedback and developping my creativity. 💡 <br/>
+💪  I now want to challenge myself and improve my coding skills to work on meaningful projects.
 
 ### 👷 What I am on :
 
