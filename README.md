@@ -1,4 +1,4 @@
-l### Hi there 👋
+### Hi there 👋
 
 <!--
 **montaigus/montaigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
